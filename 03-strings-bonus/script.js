@@ -37,3 +37,5 @@ console.log(cityIndex);
 const citySubstring = city.substring(4,);
 console.log(citySubstring);
 
+Const cityReplaced = city.replace('York', 'Delhi');
+console.log(cityReplaced);
