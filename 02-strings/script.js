@@ -24,3 +24,8 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 
 let name = 'Noemi';
 console.log(name);
+
+let number = 29;
+let text = 'csa';
+let bool = true;
+console.log(number, text, bool);
