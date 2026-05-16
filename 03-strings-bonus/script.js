@@ -39,3 +39,9 @@ console.log(citySubstring);
 
 Const cityReplaced = city.replace('York', 'Delhi');
 console.log(cityReplaced);
+
+const cityNameConcat = `${city} ${cityName}`;
+console.log(cityNameConcat);
+
+const upperCaseHello = hello.toUpperCase();
+console.log(upperCaseHello);
