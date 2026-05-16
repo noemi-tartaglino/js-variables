@@ -29,3 +29,9 @@ let number = 29;
 let text = 'csa';
 let bool = true;
 console.log(number, text, bool);
+
+const fullName = firstName + ' ' + lastName;
+console.log(fullName);
+
+const numberOfLettersInAlphabet = alphabet.length;
+console.log(numberOfLettersInAlphabet);
