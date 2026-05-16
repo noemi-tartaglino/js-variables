@@ -29,3 +29,6 @@ console.log(cityNameConcat); // Output: "New York City"
 // Trasforma tutto in maiscuolo la stringa della variabile hello
 const upperCaseHello = '';
 console.log(upperCaseHello); // Output: "HELLO"
+
+
+constciyIndex = city.indexOf('Y'); 
