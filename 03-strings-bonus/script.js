@@ -32,3 +32,8 @@ console.log(upperCaseHello); // Output: "HELLO"
 
 
 constciyIndex = city.indexOf('Y'); 
+console.log(cityIndex);
+
+const citySubstring = city.substring(4,);
+console.log(citySubstring);
+
